@@ -1,7 +1,7 @@
 # Bus-Capacity-Manager
 Nanyang Business School (AY2020/2021 S1)  
 BC0401 Decision Making with Programming and Analytics  
-*Done in collaboration with 
+*Done in collaboration with 4 team members
 
 A simple Python program designed to manage capacity for Bus Companies
 # Instructions
