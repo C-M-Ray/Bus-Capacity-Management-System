@@ -4,7 +4,10 @@ BC0401 Decision Making with Programming and Analytics
 *Done in collaboration with 4 team members
 
 *A Python program designed to manage capacity for Bus Companies.*
-# Instructions
+# Instructions  
+1. Download the source code onto your local computer   
+2. Ensure that these libraries are installed: tkinter, Pillow
+3. Run *GUI.py* or *menu.py*
 **IF YOU ARE A USER (I.E. STUDENT):**
 - You may run the program from either of the following:
 	- GUI version (Default, Recommended): *GUI.py*
