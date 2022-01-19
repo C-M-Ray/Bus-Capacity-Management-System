@@ -1,4 +1,4 @@
-# Bus-Capacity-Manager
+# Bus-Capacity-Management-System
 Nanyang Business School (AY2020/2021 Sem 1)  
 BC0401 Decision Making with Programming and Analytics  
 *Done in collaboration with 4 team members
