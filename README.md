@@ -5,7 +5,7 @@ BC0401 Decision Making with Programming and Analytics
 
 *A simple Python program designed to manage capacity for Bus Companies.*
 # Instructions
-IF YOU ARE AN APP USER (I.E. STUDENT):
+**IF YOU ARE A USER (I.E. STUDENT):**
 - You may run the program from either of the following:
 	- GUI version (Default, Recommended): GUI.py
 	- Command line version: menu.py
@@ -15,5 +15,5 @@ IF YOU ARE AN APP USER (I.E. STUDENT):
 	-Matriculation No.: U1234567A
 	-Password: Unicorn1997!
 
-IF YOU ARE FROM THE BUS COMPANY:
+**IF YOU ARE FROM THE BUS COMPANY:**
 - You may run your part of the program from the following: buscompany.py
